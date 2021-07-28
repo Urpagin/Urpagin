@@ -1,7 +1,8 @@
+![EEEEE_123](https://user-images.githubusercontent.com/72459611/127345716-69ab7427-54c5-4ae7-b0a9-4135e7161e83.gif)
 - 👋 Hi, I’m @Urpagin
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothingf
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me --> You cannot
 
 <!---
