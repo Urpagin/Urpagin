@@ -3,7 +3,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me --> You cannot
+- 📫 How to reach me --> . . . 
 
 <!---
 Urpagin/Urpagin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
