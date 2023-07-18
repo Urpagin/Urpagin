@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Python & C++** <br>
 
-Welcome to my GitHub profile! Besides learning **Python** and a bit of **C++**, I am interested in **Java** and Svelte.<br>
-I must admit that **Rust** and **Golang** seem interesting.<br>
+Welcome to my GitHub profile! Besides learning **Python** and a bit of **C++**, I am interested in **Java** and Svelte.
+I must admit that **Rust** and **Golang** seem interesting.
 Moreover, I love hosting my own services with **Docker** and making my **Homelab**; using **Linux** is so much fun too!<br>
 I also did a bit of android app development using **Kotlin**.
 
