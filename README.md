@@ -17,3 +17,10 @@ Linux enthusiast here!
 ### Contact
 
 Email: urpagin@proton.me
+
+
+Please check out this gem!!!!
+
+https://github.com/9001/copyparty
+
+I kneel in front of all this
