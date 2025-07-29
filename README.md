@@ -18,9 +18,11 @@ Linux enthusiast here!
 
 Email: urpagin@proton.me
 
+---
 
-Please check out this gem!!!!
+## Repositories I Recommend
 
-https://github.com/9001/copyparty
+### Copyparty 💾🎉
 
-I kneel in front of all this
+So much work was done by a single Norwegian, I love it!  
+Source: [https://github.com/9001/copyparty](https://github.com/9001/copyparty).
