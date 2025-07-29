@@ -24,5 +24,5 @@ Email: urpagin@proton.me
 
 ### Copyparty 💾🎉
 
-So much work was done by a single Norwegian, I love it!  
+So much work done by a single Norwegian, I love it!  
 Source: [https://github.com/9001/copyparty](https://github.com/9001/copyparty).
