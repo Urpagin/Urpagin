@@ -23,7 +23,8 @@ dXJwYWdpbkBwcm90b24ubWUK
 ```
 *Your turn*
 ```bash
-$ echo dXJwYWdpbkBwcm90b24ubWUK | base64 -d
+m=$(echo dXJwYWdpbkBwcm90b24ubWUK | base64 -d) && \
+xdg-open "mailto:${m}?subject=Hi!&body=Hey"
 ```
 
 ---
