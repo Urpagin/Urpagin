@@ -16,7 +16,11 @@ Linux enthusiast here!
 
 ### Contact
 
-Email: urpagin@proton.me
+Email:
+```bash
+$ echo <redacted> | base64
+dXJwYWdpbkBwcm90b24ubWUK
+```
 
 ---
 
