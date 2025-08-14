@@ -21,6 +21,10 @@ Email:
 $ echo <redacted> | base64
 dXJwYWdpbkBwcm90b24ubWUK
 ```
+*Your turn*
+```bash
+$ echo dXJwYWdpbkBwcm90b24ubWUK | base64 -d
+```
 
 ---
 
