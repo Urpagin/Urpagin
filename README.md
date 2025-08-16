@@ -29,9 +29,9 @@ xdg-open "mailto:$m"'?subject=Hi!&body=Hey'
 
 ---
 
-## Interesting/Funny Repositories
+## Interesting/Funny Repositories 👳
 
-### I love scraping 📀
+### `doujinstyle-scraper` 📀
 
 Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpagin/doujinstyle-scraper)
 
