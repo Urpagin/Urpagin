@@ -33,7 +33,7 @@ xdg-open "mailto:$m"'?subject=Hi!&body=Hey'
 
 ### `doujinstyle-scraper` 📀🕺
 
-I love hoarding plenty of useless datum, burning them onto unyielding slabs of unfathomable origin, incomprehensible to an Albigensian heretic ❤️‍🔥 
+The hoarder savours burning, more fiery than a Jabberwock's gaze, plenty of useless datum onto unyielding slabs of unfathomable origin, incomprehensible to an Albigensian heretic ❤️‍🔥 
 
 Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpagin/doujinstyle-scraper)
 
