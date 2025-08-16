@@ -31,12 +31,20 @@ xdg-open "mailto:$m"'?subject=Hi!&body=Hey'
 
 ## Interesting/Funny Repositories 👳
 
+
 ### `doujinstyle-scraper` 📀🕺
 
 The hoarder savours burning, more fiery than a Jabberwock's gaze, plenty of useless datum onto unyielding slabs of unfathomable origin, incomprehensible to an Albigensian heretic ❤️‍🔥 
+> [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpagin/doujinstyle-scraper)
 
-Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpagin/doujinstyle-scraper)
 
+### `gh-topicgen` 💃🏼🎴
+
+Notice how all my repositories, without exception, have all topics? That's thanks to this thingymabob below, it is now possible for you too! 
+> [https://github.com/Urpagin/gh-topicgen](https://github.com/Urpagin/gh-topicgen)
+
+
+---
 
 
 ## Repositories I Recommend 🗻
@@ -44,4 +52,4 @@ Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpa
 ### `Copyparty` 💾🎉
 
 So much work done by a single Norwegian, I love it!  
-Source: [https://github.com/9001/copyparty](https://github.com/9001/copyparty).
+> [https://github.com/9001/copyparty](https://github.com/9001/copyparty)
