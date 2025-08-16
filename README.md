@@ -33,6 +33,8 @@ xdg-open "mailto:$m"'?subject=Hi!&body=Hey'
 
 ### `doujinstyle-scraper` 📀🕺
 
+I love hoarding plenty of useless datum, burning them onto unyielding slabs of unfathomable origin, incomprehensible to an Albigensian heretic ❤️‍🔥 
+
 Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpagin/doujinstyle-scraper)
 
 
