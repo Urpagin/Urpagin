@@ -31,7 +31,7 @@ xdg-open "mailto:$m"'?subject=Hi!&body=Hey'
 
 ## Interesting/Funny Repositories 👳
 
-### `doujinstyle-scraper` 📀
+### `doujinstyle-scraper` 📀🕺
 
 Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpagin/doujinstyle-scraper)
 
@@ -39,7 +39,7 @@ Source: [https://github.com/Urpagin/doujinstyle-scraper](https://github.com/Urpa
 
 ## Repositories I Recommend 🗻
 
-### Copyparty 💾🎉
+### `Copyparty` 💾🎉
 
 So much work done by a single Norwegian, I love it!  
 Source: [https://github.com/9001/copyparty](https://github.com/9001/copyparty).
