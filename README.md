@@ -42,7 +42,7 @@ The hoarder savours burning, more fiery than a Jabberwock's gaze, plenty of usel
 
 ### `gh-topicgen` 💃🏼🎴
 
-Notice how all my repositories, without exception, have all topics? That's thanks to this thingymabob below, it is now possible for you too!
+Notice how all my repositories, without exception, have topics? That's thanks to this thingymabob below, it is now possible for you too!
 > [https://github.com/Urpagin/gh-topicgen](https://github.com/Urpagin/gh-topicgen)
 
 ---
