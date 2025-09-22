@@ -53,3 +53,8 @@ Notice how all my repositories, without exception, have topics? That's thanks to
 
 So much work done by a single Norwegian, I love it!
 > [https://github.com/9001/copyparty](https://github.com/9001/copyparty)
+
+
+## Cool chart... maybe?
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Urpagin&theme=radical)
